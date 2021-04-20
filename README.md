@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Frank Herkommer
+- 🌱 I’m currently studying Software Engineering
